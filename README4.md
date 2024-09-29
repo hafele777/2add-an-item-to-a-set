@@ -1,0 +1,1 @@
+{'cherry', 'orange', 'banana', 'apple'}
